@@ -1,3 +1,4 @@
+[patients.pdf](https://github.com/user-attachments/files/22982909/patients.pdf)
 # High-Risk-Patients---Predictions
 ## 🏥 Healthcare Readmission Prediction — SQL + Python + Power BI
 ## 📘 Project Overview
